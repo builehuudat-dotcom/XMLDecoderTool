@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDecoderTool", "XMLDecoderTool\XMLDecoderTool.csproj", "{046F9F7F-1FC1-4667-8065-46FCEF85C08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046F9F7F-1FC1-4667-8065-46FCEF85C08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046F9F7F-1FC1-4667-8065-46FCEF85C08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046F9F7F-1FC1-4667-8065-46FCEF85C08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046F9F7F-1FC1-4667-8065-46FCEF85C08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05000D50-89AD-4946-8F67-EF6F5424B81F}
+	EndGlobalSection
+EndGlobal
